@@ -2,11 +2,11 @@
 
 @font-face {
     font-family:'bebas';
-    src: url('fontes/BebasNeue-Regular.ttf') format('truetype');
+    src: url('../fontes/BebasNeue-Regular.ttf') format('truetype');
 }
 @font-face {
     font-family: 'androide';
-    src: url('fontes/idroid.otf') format('opentype');
+    src: url('../fontes/idroid.otf') format('opentype');
 }
    
 :root{
@@ -203,11 +203,3 @@ footer a:hover{
     text-decoration: underline;
     color: #2fa866;
 }
-
-
-
-
-
-
-
-
